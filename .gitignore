@@ -1,0 +1,21 @@
+# Ignore everything
+*
+# But not these files...
+!/.gitignore
+
+!*.yaml
+!Makefile
+
+!README.md
+!PROJECT
+!LICENSE
+!.licignore
+!.golic.yaml
+!.golangci.yaml
+!.gitkeep
+!NOTES.md
+
+# ...even if they are in subdirectories
+!*/
+#
+#.DEMO
